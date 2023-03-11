@@ -1,0 +1,10 @@
+marcelo
+marcelo
+marcelo2
+& C:/Users/Apex09/AppData/Local/Microsoft/WindowsApps/python3.8.exe c:/Users/Apex09/Documents/marcelo/modulo3/nova.py
+joao
+pedro
+marcelo
+aaaa
+pooo
+oi
